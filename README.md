@@ -2,6 +2,12 @@
 
 # 2526_Maker_Oreiller_Reveil
 
+## Vidéo
+
+
+[![vidéo projet sans son (je l'ajoute ce soir (lundi 04/05)](https://img.youtube.com/vi/ZahEi3S5EqU/0.jpg)](https://www.youtube.com/shorts/ZahEi3S5EqU)
+
+
 ## Retro-Planning
 
 Lundi 13 avril 2026 - Projet terminé
