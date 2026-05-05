@@ -1,0 +1,10 @@
+10:11:30 **** Incremental Build of configuration Debug for project Oreiller_reveil_projet ****
+make -j12 all 
+arm-none-eabi-size  Oreiller_reveil_projet.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23396	    108	   2676	  26180	   6644	Oreiller_reveil_projet.elf
+Finished building: default.size.stdout
+ 
+
+10:11:30 Build Finished. 0 errors, 0 warnings. (took 799ms)
+
