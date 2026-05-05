@@ -73,13 +73,21 @@ On commence par ce qui va mettre le plus de temps à arriver à savoir le PCB.
 
  <img width="918" height="776" alt="image" src="https://github.com/user-attachments/assets/6d7b96f2-e859-4697-9779-c412285f0465" />
 
- On soude nos différents composants dessus.
+ On soude nos différents composants dessus : 
+
+ <img width="597" height="566" alt="image" src="https://github.com/user-attachments/assets/30676d22-0c36-40c3-9177-b83487586d06" />
+
+ Et voila le résulat final quand tout est soudé : 
+
+<img width="560" height="415" alt="image" src="https://github.com/user-attachments/assets/b4ff5722-3aeb-4ca6-a007-9cfb27394399" />
 
 ## Modélisation et Impression 3D
 
 Puis on vient modéliser et imprimer un boitier qui contiendra toute notre électronique.
 
 <img width="1167" height="745" alt="image" src="https://github.com/user-attachments/assets/9fd57685-7a48-41cf-9045-298872422ef7" />
+
+<img width="567" height="605" alt="image" src="https://github.com/user-attachments/assets/5b3ca4ab-2438-49f4-9159-a17e85733a62" />
 
 ## Plusieurs revers et changements de direction du projet
 
@@ -91,3 +99,7 @@ Je me rends compte égalemennt de l'inutilité du capteur de force qui fait que 
 De même, j'avais initiallement prévu le projet pour être alimenté via une batterie 1S mais je me rends compte qu'il va fallori utiliser une batterie 2S et que je n'ai pas de BMS USB 2S donc on ne pourra recharger l'oreiller que en le dévissant et en rechargant manuellement la batterie. En réalité la consommation est tellement ridicule et la batterie tellement surdimensionnée que ca ne devrait pas être véritablement une contrainte.
 
 Enfin je me rends compte que je commence à être vraiment juste au niveau du temps et je préfère me concentrer sur avoir un produit fini et fonctionnel plutôt qu'avec des fonctionnalités plus intéressantes mais non fonctionnel donc je décide aussi de supprimer l'étape de couture de l'oreiller qui va me prendre trop de temps. On viendra glisser le boitier sous ou dans un oreiller classique.
+
+## Résultat final
+
+<img width="562" height="487" alt="image" src="https://github.com/user-attachments/assets/b3684023-83ad-4a8c-99a0-7238d6d861fd" />
