@@ -4,7 +4,7 @@
 
 ## Vidéo
 
-lien : https://drive.google.com/file/d/1P0oVxWxm-RGm2FpfCJ1PnNDqiBaXEIlk/view?usp=sharing
+lien : https://drive.google.com/file/d/1w8A_ODKsNGQ6mnbFHUD87OiRabI6SSl4/view?usp=sharing
 
 
 ## Retro-Planning
